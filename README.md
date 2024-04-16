@@ -14,7 +14,7 @@ pip install numpy
 ## Import the required libraries in your Python code:
 
 ```
-import sympy
-import numpy
+import sympy as sy
+import numpy as np
 ```
 
