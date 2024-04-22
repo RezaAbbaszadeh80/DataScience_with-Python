@@ -7,6 +7,8 @@
 ```
 pip install sympy  
 pip install numpy
+pip install pandas
+pip install matplotlib
 ```
 
 # Usage
@@ -16,5 +18,7 @@ pip install numpy
 ```
 import sympy as sy
 import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
 ```
 
